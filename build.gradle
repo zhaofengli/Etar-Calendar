@@ -180,7 +180,7 @@ android {
         targetSdkVersion 31
         versionCode 30
         versionName "1.0.28"
-        applicationId "ws.xsoh.etar"
+        applicationId "li.zhaofeng.etar"
     }
 
     useLibrary 'org.apache.http.legacy'
